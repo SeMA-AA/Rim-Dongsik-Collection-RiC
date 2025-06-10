@@ -1,4 +1,4 @@
-<h2 align="center">컬렉션시각화Beta</h2>
+<h2 align="center">컬렉션시각화 Beta</h2>
 
 **<p align="right">🌐<a href="README(EN).md">English Version</a></p>**
 
