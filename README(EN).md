@@ -76,7 +76,7 @@ The Collection Visualization Beta of Art Archives, Seoul Museum of Art(SeMA AA) 
 ○ Target Collection: Rim Dongsik Collection
 - [Access the Rim Dongsik Collection Ontology Graph (Click)](http://121.131.4.200:7200/graphs-visualizations?saved=779777255f0c4d698878138c2a4d493c)
 
-    ※ Login is required to ensure a consistent operating environment. (Username: user / Password: root)
+    ※ Login is required to ensure a consistent operating environment. (Username: user / Password: semaaa)
 
     ※ If the graph does not display immediately, go to the left-hand menu and select Explore > Visual graph, then choose Rim Dongsik Collection under Saved graphs.
 
